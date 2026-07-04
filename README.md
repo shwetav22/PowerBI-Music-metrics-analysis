@@ -12,3 +12,13 @@ Multi-Page Report Architecture: Structured into distinct analytical sheets, incl
 Cross-Visual Filtering: Configured precise interactive behaviors between multi-series column charts, line distributions, and single-metric KPIs to ensure a smooth, intuitive user experience.
 
 
+
+<img width="1106" height="627" alt="image" src="https://github.com/user-attachments/assets/49d44845-cfd5-4cba-9129-4a96c998444b" />
+
+<img width="1102" height="625" alt="image" src="https://github.com/user-attachments/assets/ebe7b1de-d641-4a73-b203-a281cf21fb0c" />
+
+<img width="1096" height="625" alt="image" src="https://github.com/user-attachments/assets/68cb1a2d-c1ae-43b7-a108-5ba4e3501ecb" />
+
+<img width="1092" height="602" alt="image" src="https://github.com/user-attachments/assets/74129b46-0f78-4997-8fc4-f59dc1b4a34e" />
+
+
